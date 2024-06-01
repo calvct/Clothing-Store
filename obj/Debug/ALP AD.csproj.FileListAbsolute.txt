@@ -1,0 +1,276 @@
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\bin\Debug\ALP AD.exe.config
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\bin\Debug\ALP AD.exe
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\bin\Debug\ALP AD.pdb
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP AD.exe
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP AD.pdb
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP_AD.Login.resources
+C:\Users\Marvel Hans S\OneDrive\Documents\Coding\ALP AD\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP_AD.Login.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\MySql.Data.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\MySql.Web.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\Google.Protobuf.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\ZstdNet.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\System.Buffers.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\MySql.Data.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\bin\Debug\MySql.Web.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\ALP AD\obj\Debug\ALP_AD.FormKategori.resources
+D:\ALP AD ver. login signup done\bin\Debug\ALP AD.exe.config
+D:\ALP AD ver. login signup done\bin\Debug\ALP AD.exe
+D:\ALP AD ver. login signup done\bin\Debug\ALP AD.pdb
+D:\ALP AD ver. login signup done\bin\Debug\Google.Protobuf.dll
+D:\ALP AD ver. login signup done\bin\Debug\ZstdNet.dll
+D:\ALP AD ver. login signup done\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ALP AD ver. login signup done\bin\Debug\BouncyCastle.Crypto.dll
+D:\ALP AD ver. login signup done\bin\Debug\Ubiety.Dns.Core.dll
+D:\ALP AD ver. login signup done\bin\Debug\System.Buffers.dll
+D:\ALP AD ver. login signup done\bin\Debug\K4os.Compression.LZ4.dll
+D:\ALP AD ver. login signup done\bin\Debug\K4os.Hash.xxHash.dll
+D:\ALP AD ver. login signup done\bin\Debug\System.Numerics.Vectors.dll
+D:\ALP AD ver. login signup done\bin\Debug\MySql.Data.xml
+D:\ALP AD ver. login signup done\bin\Debug\MySql.Data.EntityFramework.xml
+D:\ALP AD ver. login signup done\bin\Debug\MySql.Web.xml
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.exe.config
+D:\ALP AD ver. login signup done\obj\Debug\ALP_AD.Form1.resources
+D:\ALP AD ver. login signup done\obj\Debug\ALP_AD.Login.resources
+D:\ALP AD ver. login signup done\obj\Debug\ALP_AD.FormKategori.resources
+D:\ALP AD ver. login signup done\obj\Debug\ALP_AD.Properties.Resources.resources
+D:\ALP AD ver. login signup done\obj\Debug\ALP_AD.SignUp.resources
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.csproj.GenerateResource.cache
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.csproj.CopyComplete
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.exe
+D:\ALP AD ver. login signup done\obj\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\Google.Protobuf.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\ZstdNet.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\System.Buffers.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Login.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormKategori.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormTshirt.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\Google.Protobuf.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\ZstdNet.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\System.Buffers.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.xml
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.xml
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Login.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormKategori.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormTshirt.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Saldo.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Cart.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Wishlist.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\Google.Protobuf.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ZstdNet.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\System.Buffers.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Cart.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Login.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormKategori.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormTshirt.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Saldo.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Wishlist.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Transaksi.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\Google.Protobuf.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ZstdNet.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\System.Buffers.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.xml
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.xml
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Cart.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Login.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormKategori.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormTshirt.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Saldo.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Transaksi.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Wishlist.resources
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe
+C:\Users\Calvin CT\Downloads\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\Google.Protobuf.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\ZstdNet.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\System.Buffers.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Debug\MySql.Web.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Cart.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Login.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormKategori.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.FormTshirt.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Saldo.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Transaksi.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP_AD.Wishlist.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Debug\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\ALP AD.exe
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\MySql.Data.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\MySql.Web.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\Google.Protobuf.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\ZstdNet.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\System.Buffers.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\MySql.Data.xml
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\bin\Debug\MySql.Web.xml
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Cart.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Form1.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Login.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.FormKategori.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.FormTshirt.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Properties.Resources.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Saldo.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.SignUp.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Transaksi.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP_AD.Wishlist.resources
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.csproj.GenerateResource.cache
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.csproj.CopyComplete
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.exe
+C:\Users\Calvin CT\Downloads\Clothing Store Finished\ALP AD_DBD Clothing Store\obj\Debug\ALP AD.pdb

@@ -1,0 +1,131 @@
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\Google.Protobuf.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\ZstdNet.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\System.Buffers.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Form1.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Login.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormKategori.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormTshirt.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Properties.Resources.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.GenerateResource.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CopyComplete
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Saldo.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe.config
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.pdb
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\Google.Protobuf.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ZstdNet.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\System.Buffers.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.xml
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.xml
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.AssemblyReference.cache
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe.config
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Form1.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Login.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormKategori.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormTshirt.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Properties.Resources.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Saldo.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.SignUp.resources
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.GenerateResource.cache
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CopyComplete
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe
+C:\Users\KIMBERLY\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.pdb
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\Google.Protobuf.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\ZstdNet.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\System.Buffers.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.xml
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.xml
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe.config
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Form1.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Login.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormKategori.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormTshirt.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Properties.Resources.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Saldo.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.SignUp.resources
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.GenerateResource.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CopyComplete
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe
+C:\Users\Calvin CT\Downloads\ALP AD ver.saldobelum selesai\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\ALP AD.pdb
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\Google.Protobuf.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\ZstdNet.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\System.Buffers.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\bin\Release\MySql.Web.xml
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.AssemblyReference.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe.config
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Cart.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Form1.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Login.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormKategori.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.FormTshirt.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Properties.Resources.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Saldo.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.SignUp.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Transaksi.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP_AD.Wishlist.resources
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.GenerateResource.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.csproj.CopyComplete
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.exe
+C:\Users\Rangga R\Documents\Rangga File\ALP AD-DBD\on progress files\alp checkout\ALP AD ver.tinggal buy item\ALP AD ver. kategori blm slesaai\obj\Release\ALP AD.pdb
